@@ -1,7 +1,7 @@
 # planetdance-astrology
 Free astrology program
 
-**Astrolog** has a **Linux** version, but it doesn't have menus, so you have to use commands. I've created an **AppImage** using the Windows version of Astrolog v8.0 with **wine.**
+**Planetdance** is designed for use on **Windows.** I have created an **AppImage** version of the program using **wine.**
 
 [Home page of Planetdance](https://jcremers.com)
 
