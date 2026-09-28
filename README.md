@@ -3,14 +3,14 @@ Free astrology program
 
 **Astrolog** has a **Linux** version, but it doesn't have menus, so you have to use commands. I've created an **AppImage** using the Windows version of Astrolog v8.0 with **wine.**
 
-[Home page of Astrolog proyect](https://www.astrolog.org/astrolog.htm)
+[Home page of Planetdance proyect](https://jcremers.com)
 
-# AppImage version of Astrolog v8.0 with wine
-- **Astrolog-v8.0-i686.AppImage** **[Download](https://github.com/Uthopik/astrolog-astrology/releases/download/v8.0/Astrolog-v8.0-i686.AppImage)**
+# AppImage version of Planetdance v26.09 with wine
+- **Planetdance-v26.09-i686.AppImage** **[Download](https://github.com/Uthopik/planetdance-astrology/releases/download/v26.09/Planetdance-v26.09-i686.AppImage)**
 - Right-click the **AppImage** file and grant permission via the **‘Permissions’** menu. Alternatively, in the terminal, grant permission using:
 
 ```bash
-chmod +x ./Astrolog-v8.0-i686.AppImage
+chmod +x ./Planetdance-v26.09-i686.AppImage
 ```
 
 # Other interesting astrology programs
